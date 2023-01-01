@@ -1,5 +1,16 @@
 # TodoApi
 
+## Goal
+
+  * Try out how to build a REST API with Phoenix
+
+## Setup
+
+To spin up the db:
+
+  * `docker-compose up -d`
+
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
